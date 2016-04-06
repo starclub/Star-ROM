@@ -3,6 +3,7 @@ Star-ROM is an open source Scratch project viewer that can be installed on CD's.
 
 # Using Star-ROM
 Star-ROM is completely free to use. If you wish to make your own Star-ROM disc, it must follow these guidelines:
+
 1. Modifying the .bat file is prohibited.
 2. You must be using your own project.
 3. The icon must be your own icon, not the sample.
