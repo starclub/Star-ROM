@@ -1,0 +1,10 @@
+To test your new Star-ROM disc, you can use these methods:
+
+*Once the Star-ROM is inserted, click on your disc drive to open the project.
+*Windows 7 and below: Once the Star-ROM is inserted, AutoPlay may pop up. In AutoPlay, click Run (your project's name) to open the project.
+*Windows 8 and above: Once the Star-ROM is inserted, you will see a notification come up saying "(Your project's name) Choose what happens with this disc." Click it to open AutoPlay. There, you will see "Run (your project's name)" Click there to open your project.
+
+
+
+
+To see the Credits, read Credits.txt.
