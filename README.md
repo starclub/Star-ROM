@@ -19,7 +19,7 @@ To set up a Star-ROM disc you will need the following:
 3. The Star-ROM source code
 
 To find the directions, read Setup.txt
-
+To see the Credits, read Credits.txt
 
 
 
