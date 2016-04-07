@@ -4,9 +4,9 @@ Starting to set up your Star-ROM disc.
 Setting up your Autorun.inf
 -------------------------------------
 1. Open Autorun.inf with your favorite text editor.
-2. Edit the text "Star-ROM Sample" and replace it with your project's name.
+2. Edit the text "Star-ROM Sample" in the label and replace it with your project's name. Then, do the same with the action.
 3. Save the Autorun.inf and exit the editor.
-4. You're all set!
+4. You're done with Autorun.inf.
 
 Compile a .SWF of your Scratch Project
 ----------------------------------------
@@ -16,3 +16,30 @@ Compile a .SWF of your Scratch Project
 4. Check the box that says "Show Green Flag Bar"
 5. Click "Convert to SWF"
 6. Save the file in the Star-ROM directory as "project.swf"
+7. That's all for setting up the project, but the Star-ROM is still not done.
+
+Adding an icon
+------------------------------------------
+
+To add an icon, you must find or make an .ico file.
+We reccommend going to iconarchive.com to download an icon.
+Once you have your icon, save it as "icon.ico" in the Star-ROM directory.
+
+Burning your Star-ROM disc
+------------------------------------------
+This is the final part to making your Star-ROM disc.
+1. Go to MagicISO.com and download MagicISO.
+2. Run the installer and follow the directions to install MagicISO.
+3. Once it is done installing, click "Finish" in the installer and open MagicISO if you haven't yet.
+4. You can register or use the free version, so you can pick which one.
+5. Navigate your way to the Star-ROM directory in the MagicISO window.
+6. The files should appear to the right of all of the folders.
+7. Drag all of the files in the Star-ROM directory in the empty section that's right above the Star-ROM files.
+8. Click "File" in the upper left corner.
+9. Click "Save As"
+10. Save the .iso wherever you want.
+11. Make sure you have a blank CD inserted into your disc drive. DVD's and Blu-Ray discs will not work.
+12. Click "Tools", which is right next to "File".
+13. Click "Burn CD/DVD With ISO" While it says DVD's are an option, they are incompatible with Star-ROM.
+14. Open the ISO you just made and click "Burn it!"
+15. Once it is done burning, you have officially made a Star-ROM disc! To find out how to use it, read Test.txt
