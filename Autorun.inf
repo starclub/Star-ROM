@@ -1,0 +1,5 @@
+[autorun]
+icon=icon.ico
+label=Star-ROM Sample
+open=boot.bat
+action=Run Star-ROM Sample
