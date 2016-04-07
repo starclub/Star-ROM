@@ -1,0 +1,18 @@
+Starting to set up your Star-ROM disc.
+---------------------------------------------------------------------
+
+Setting up your Autorun.inf
+-------------------------------------
+1. Open Autorun.inf with your favorite text editor.
+2. Edit the text "Star-ROM Sample" and replace it with your project's name.
+3. Save the Autorun.inf and exit the editor.
+4. You're all set!
+
+Compile a .SWF of your Scratch Project
+----------------------------------------
+1. Save an .SB2 of a Scratch Project
+2. Go to http://junebeetle.github.io/converter/online/
+3. Upload your project
+4. Check the box that says "Show Green Flag Bar"
+5. Click "Convert to SWF"
+6. Save the file in the Star-ROM directory as "project.swf"
