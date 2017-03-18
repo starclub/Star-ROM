@@ -2,3 +2,4 @@ Star-ROM Change Log:
 Alpha-1: -Initial Release
 Alpha-2: -Remakes the "boot.bat"
          -Fixes Bugs
+Alpha-3: -Project not dead. (as of 2017)
