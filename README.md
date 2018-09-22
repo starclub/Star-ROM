@@ -1,4 +1,5 @@
-## This project is long defunct. We highly recommend you do not use this anymore as the optical disc is an outdated format and that Adobe Flash is ending support in 2020.
+# End Of Life Notice
+This project is long defunct. We highly recommend you do not use this anymore as the optical disc is an outdated format and that Adobe Flash is ending support in 2020.
 # Star-ROM
 Star-ROM is an open source Scratch project viewer that can be installed on CD's.
 
